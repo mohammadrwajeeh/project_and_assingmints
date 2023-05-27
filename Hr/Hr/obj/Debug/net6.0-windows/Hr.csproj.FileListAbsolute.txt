@@ -1,0 +1,17 @@
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.csproj.AssemblyReference.cache
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\HRManagementSystem.EmployeeCreationForm.resources
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.csproj.GenerateResource.cache
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.AssemblyInfoInputs.cache
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.AssemblyInfo.cs
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.csproj.CoreCompileInputs.cache
+C:\Users\Hosam\Desktop\c#\Hr\Hr\bin\Debug\net6.0-windows\Hr.exe
+C:\Users\Hosam\Desktop\c#\Hr\Hr\bin\Debug\net6.0-windows\Hr.deps.json
+C:\Users\Hosam\Desktop\c#\Hr\Hr\bin\Debug\net6.0-windows\Hr.runtimeconfig.json
+C:\Users\Hosam\Desktop\c#\Hr\Hr\bin\Debug\net6.0-windows\Hr.dll
+C:\Users\Hosam\Desktop\c#\Hr\Hr\bin\Debug\net6.0-windows\Hr.pdb
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.dll
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\refint\Hr.dll
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.pdb
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\Hr.genruntimeconfig.cache
+C:\Users\Hosam\Desktop\c#\Hr\Hr\obj\Debug\net6.0-windows\ref\Hr.dll

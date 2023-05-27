@@ -1,0 +1,17 @@
+C:\Users\Hosam\Desktop\c#\text editor\text editor\bin\Debug\net6.0-windows\text editor.exe
+C:\Users\Hosam\Desktop\c#\text editor\text editor\bin\Debug\net6.0-windows\text editor.deps.json
+C:\Users\Hosam\Desktop\c#\text editor\text editor\bin\Debug\net6.0-windows\text editor.runtimeconfig.json
+C:\Users\Hosam\Desktop\c#\text editor\text editor\bin\Debug\net6.0-windows\text editor.dll
+C:\Users\Hosam\Desktop\c#\text editor\text editor\bin\Debug\net6.0-windows\text editor.pdb
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.csproj.AssemblyReference.cache
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\TextEditor.MainForm.resources
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.csproj.GenerateResource.cache
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.AssemblyInfoInputs.cache
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.AssemblyInfo.cs
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.csproj.CoreCompileInputs.cache
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.dll
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\refint\text editor.dll
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.pdb
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\text editor.genruntimeconfig.cache
+C:\Users\Hosam\Desktop\c#\text editor\text editor\obj\Debug\net6.0-windows\ref\text editor.dll
