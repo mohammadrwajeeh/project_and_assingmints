@@ -1,0 +1,17 @@
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.csproj.AssemblyReference.cache
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.Form1.resources
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.csproj.GenerateResource.cache
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.AssemblyInfoInputs.cache
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.AssemblyInfo.cs
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.csproj.CoreCompileInputs.cache
+C:\Users\adela\source\repos\zxxz\bin\Debug\net6.0-windows\zxxz.exe
+C:\Users\adela\source\repos\zxxz\bin\Debug\net6.0-windows\zxxz.deps.json
+C:\Users\adela\source\repos\zxxz\bin\Debug\net6.0-windows\zxxz.runtimeconfig.json
+C:\Users\adela\source\repos\zxxz\bin\Debug\net6.0-windows\zxxz.dll
+C:\Users\adela\source\repos\zxxz\bin\Debug\net6.0-windows\zxxz.pdb
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.dll
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\refint\zxxz.dll
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.pdb
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\zxxz.genruntimeconfig.cache
+C:\Users\adela\source\repos\zxxz\obj\Debug\net6.0-windows\ref\zxxz.dll
