@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "cal_new": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Hosam\\Desktop\\c#\\cal_new",
+      "jsWebView2Debugging": true,
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.csproj.AssemblyReference.cache
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\DynamicControlsApp.Form1.resources
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.csproj.GenerateResource.cache
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.AssemblyInfoInputs.cache
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.AssemblyInfo.cs
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.csproj.CoreCompileInputs.cache
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\bin\Debug\net6.0-windows\cmdbox.exe
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\bin\Debug\net6.0-windows\cmdbox.deps.json
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\bin\Debug\net6.0-windows\cmdbox.runtimeconfig.json
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\bin\Debug\net6.0-windows\cmdbox.dll
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\bin\Debug\net6.0-windows\cmdbox.pdb
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.dll
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\refint\cmdbox.dll
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.pdb
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\cmdbox.genruntimeconfig.cache
+C:\Users\Hosam\Desktop\c#\cmdbox\cmdbox\obj\Debug\net6.0-windows\ref\cmdbox.dll

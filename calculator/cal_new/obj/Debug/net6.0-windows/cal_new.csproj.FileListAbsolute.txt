@@ -1,0 +1,17 @@
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.csproj.AssemblyReference.cache
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\CalculatorApp.CalculatorForm.resources
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.csproj.GenerateResource.cache
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.AssemblyInfoInputs.cache
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.AssemblyInfo.cs
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.csproj.CoreCompileInputs.cache
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\bin\Debug\net6.0-windows\cal_new.exe
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\bin\Debug\net6.0-windows\cal_new.deps.json
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\bin\Debug\net6.0-windows\cal_new.runtimeconfig.json
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\bin\Debug\net6.0-windows\cal_new.dll
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\bin\Debug\net6.0-windows\cal_new.pdb
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.dll
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\refint\cal_new.dll
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.pdb
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\cal_new.genruntimeconfig.cache
+C:\Users\Hosam\Desktop\c#\cal_new\cal_new\obj\Debug\net6.0-windows\ref\cal_new.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmdbox", "cmdbox\cmdbox.csproj", "{B170E66C-E8F8-4C6C-95FA-A3039523603D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B170E66C-E8F8-4C6C-95FA-A3039523603D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B170E66C-E8F8-4C6C-95FA-A3039523603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B170E66C-E8F8-4C6C-95FA-A3039523603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B170E66C-E8F8-4C6C-95FA-A3039523603D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C76A70-FA9E-485E-ADD4-CCEA8FCB0006}
+	EndGlobalSection
+EndGlobal
